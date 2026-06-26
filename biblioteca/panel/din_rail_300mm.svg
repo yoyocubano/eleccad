@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="24" viewBox="0 0 300 24">
+<defs>
+  <linearGradient id="railg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#777"/><stop offset="20%" stop-color="#bbb"/>
+    <stop offset="50%" stop-color="#e0e0e0"/><stop offset="80%" stop-color="#aaa"/>
+    <stop offset="100%" stop-color="#666"/>
+  </linearGradient>
+  <filter id="sh"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity=".5"/></filter>
+</defs>
+<rect x="0" y="2" width="300" height="20" fill="url(#railg)" rx=".5" filter="url(#sh)"/>
+<rect x="0" y="2" width="300" height="3" fill="#555"/>
+<rect x="0" y="19" width="300" height="3" fill="#555"/>
+<rect x="2" y="8" width="296" height="8" rx="1" fill="#c0c0c0"/>
+<rect x="3" y="9" width="294" height="6" rx=".5" fill="#d8d8d8"/>
+<ellipse cx="14" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="40" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="66" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="92" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="118" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="144" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="170" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="196" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="222" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="248" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/><ellipse cx="274" cy="12" rx="4" ry="2.5" fill="#666" stroke="#555" stroke-width=".3"/>
+</svg>

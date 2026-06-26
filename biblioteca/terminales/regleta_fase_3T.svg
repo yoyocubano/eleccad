@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="62" viewBox="0 0 66 62"><defs>
+  <filter id="sh"><feDropShadow dx="1" dy="1" stdDeviation="1.5" flood-opacity=".4"/></filter>
+  <linearGradient id="screwg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#ccc"/><stop offset="40%" stop-color="#888"/>
+  <stop offset="60%" stop-color="#bbb"/><stop offset="100%" stop-color="#555"/>
+</linearGradient>
+</defs><rect x="0" y="0" width="20" height="62" fill="#22aa44" rx="1.5" stroke="#22aa4499" stroke-width=".5" filter="url(#sh)"/><rect x="2" y="2" width="16" height="19.8" fill="#111" rx=".8"/><circle cx="10" cy="31.0" r="5.5" fill="url(#screwg)" stroke="#2a2a2a" stroke-width=".4"/>
+<line x1="6.2" y1="31.0" x2="13.8" y2="31.0" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="10" y1="27.1" x2="10" y2="34.9" stroke="#1a1a1a" stroke-width="1.2"/><rect x="2" y="44.6" width="16" height="14.9" fill="#111" rx=".8"/><rect x="22" y="0" width="20" height="62" fill="#2255dd" rx="1.5" stroke="#2255dd99" stroke-width=".5" filter="url(#sh)"/><rect x="24" y="2" width="16" height="19.8" fill="#111" rx=".8"/><circle cx="32" cy="31.0" r="5.5" fill="url(#screwg)" stroke="#2a2a2a" stroke-width=".4"/>
+<line x1="28.1" y1="31.0" x2="35.9" y2="31.0" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="32" y1="27.1" x2="32" y2="34.9" stroke="#1a1a1a" stroke-width="1.2"/><rect x="24" y="44.6" width="16" height="14.9" fill="#111" rx=".8"/><rect x="44" y="0" width="20" height="62" fill="#ddaa00" rx="1.5" stroke="#ddaa0099" stroke-width=".5" filter="url(#sh)"/><rect x="46" y="2" width="16" height="19.8" fill="#111" rx=".8"/><circle cx="54" cy="31.0" r="5.5" fill="url(#screwg)" stroke="#2a2a2a" stroke-width=".4"/>
+<line x1="50.1" y1="31.0" x2="57.9" y2="31.0" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="54" y1="27.1" x2="54" y2="34.9" stroke="#1a1a1a" stroke-width="1.2"/><rect x="46" y="44.6" width="16" height="14.9" fill="#111" rx=".8"/></svg>

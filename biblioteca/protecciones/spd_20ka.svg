@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="128" viewBox="0 0 40 128">
+<defs>
+  <linearGradient id="spdg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ee2222"/><stop offset="100%" stop-color="#bb1111"/>
+  </linearGradient>
+  <linearGradient id="screwg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#ccc"/><stop offset="40%" stop-color="#888"/>
+  <stop offset="60%" stop-color="#bbb"/><stop offset="100%" stop-color="#555"/>
+</linearGradient>
+  <filter id="sh"><feDropShadow dx="1.5" dy="2" stdDeviation="2" flood-opacity=".45"/></filter>
+</defs>
+<rect x=".5" y=".5" width="39" height="127" rx="2" fill="url(#spdg)" stroke="#991111" stroke-width=".7" filter="url(#sh)"/>
+<rect x="2" y="5.1" width="36" height="12.8" rx="1" fill="#ffdd00"/>
+<text x="20.0" y="15.4" text-anchor="middle" font-size="8px" font-family="Arial" font-weight="bold" fill="#111">SPD</text>
+<rect x="4" y="21.8" width="32" height="71.7" rx="2" fill="#cc1111"/>
+<text x="20.0" y="70.4" text-anchor="middle" font-size="20px" font-family="Arial" fill="#ffee00">&#x26A1;</text>
+<text x="20.0" y="101.1" text-anchor="middle" font-size="7.5px" font-family="Arial" fill="#ffcc88">20kA</text>
+<rect x="2" y="112.6" width="36" height="11.5" rx="1.5" fill="#222"/>
+<circle cx="20.0" cy="122.24" r="5" fill="url(#screwg)" stroke="#2a2a2a" stroke-width=".4"/>
+<line x1="16.5" y1="122.24" x2="23.5" y2="122.24" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="20.0" y1="118.7" x2="20.0" y2="125.7" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="2" y=".5" width="36" height="5.1" rx="1.5" fill="#222"/>
+<circle cx="20.0" cy="3.2" r="5" fill="url(#screwg)" stroke="#2a2a2a" stroke-width=".4"/>
+<line x1="16.5" y1="3.2" x2="23.5" y2="3.2" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="20.0" y1="-0.3" x2="20.0" y2="6.7" stroke="#1a1a1a" stroke-width="1.2"/>
+</svg>
